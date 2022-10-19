@@ -1,4 +1,4 @@
-Nome corso,Costo (€),Durata (Ore),Data Inizio,Data Fine
+Nome corso,Costo,Durata,Data_inizio,Data_fine
 Java,150,600,01/11/2022,30/01/2023
 HTML,50,200,01/11/2022,30/11/2022
 C,50,200,24/10/2022,25/11/2022
